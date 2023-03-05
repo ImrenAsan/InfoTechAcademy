@@ -1,0 +1,24 @@
+package homework9;
+
+public class Sonuc {
+    //Question1:
+    //Tokyo-Kahire arasi ucak seferi duzenleyen bir hava yolu sirketi icin
+    //bilet satis programina bir ek program yazmaniz istendi.
+    // - Kalkis Tokyo ve inis Kahire sehridir.
+    // - Sartlar; Kullanicidan seyahat tarihi ve saati istenecek,
+    // - Tokyo saatiyle kalkis saati ve tarihi,
+    // - Kahire saatiyle inis saati ve tarihi verilecek.
+    // - (Kullanicidan istenilen bilgileri “VeriGirisi”
+    //adiyla olusturulmus class’ tan alinip “Sonuc” adiyla olusturulmus
+    //class icinde olusturacaginiz static bir method’ tan kullaniciya
+    //sunulacaktir.)
+
+    public static void main(String[] args) {
+        VeriGirisi flightDate = new VeriGirisi();
+
+
+
+    }
+
+
+}
